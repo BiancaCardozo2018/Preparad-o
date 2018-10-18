@@ -1,0 +1,45 @@
+body {
+	background: url(img/Preparadão.png) no-repeat center top fixed;
+	background-size: 100% 100%;
+	overflow: hidden;
+}
+
+#segunda-tela {
+	display: none;
+}
+
+button {
+	background-color: yellow;
+	border-color: yellow;
+	font-family: sans-serif;
+	font-size: 40px;
+	margin-top: 300px;
+}
+
+span {
+	display: flex;
+	font-size: 40px;
+	margin-top: 200px;
+	margin-left: 40px;
+}
+
+p {
+	font-size: 20px;
+	font-family: sans-serif;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+}
+
+@media screen and (min-width: 1000px){
+
+	button {
+		background-color: yellow;
+		border-color: yellow;
+		font-family: sans-serif;
+		font-size: 900px;
+		margin-top: 300px;
+	}
+
+
+}
