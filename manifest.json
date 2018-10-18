@@ -1,14 +1,14 @@
 {
-  "name": "Meu App",
-  "short_name": "Meu App",
+  "name": "Preparadão | Universia",
+  "short_name": "Preparadão | Universia",
   "icons": [
     {
-      "src": "img/icon-192.png",
+      "src": "img/fav.png",
       "sizes": "192x192",
       "type": "image/png"
     }, 
     {
-      "src": "img/icon-512.png",
+      "src": "img/fav.png",
       "sizes": "512x512",
       "type": "image/png"
     }
