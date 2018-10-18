@@ -40,7 +40,7 @@ var x = setInterval(function() {
 	+ minutes + "m " + seconds + "s ";
 
 	if (days >= 1) {
-		document.getElementById("frase").innerHTML = "Ainda faltam " + days + " horas para a sua prova, isso quer dizer que ainda dá tempo de focar naquele conteúdo que parece complicado demais.";
+		document.getElementById("frase").innerHTML = "Ainda faltam " + days + " dias para a sua prova, isso quer dizer que ainda dá tempo de focar naquele conteúdo que parece complicado demais.";
 	} else if (days == 0 && hours == 24) {
 		document.getElementById("frase").innerHTML = "FALTAM " + hours + " HORAS !! Estamos aqui para ajudar você, portanto não se esqueça de descansar bem um dia antes da prova, e tente relaxar, pois o momentode estudos já passou.";
 	} else if (days == 0 && hours == 12) {
