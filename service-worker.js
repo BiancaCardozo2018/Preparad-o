@@ -2,7 +2,6 @@ let cacheName = 'meu-app-cache-v1';
 let filesToCache = [
 	'/',
 	'/index.html',
-	'/index2.html',
 	'/main.js',
 	'/main.css'
 ];

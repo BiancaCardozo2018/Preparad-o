@@ -17,7 +17,7 @@ let Frase = document.querySelector('#frase');
 
 function IniciarContagem(){
 	primeiraTela.style.display = 'none';
-	segundaTela.style.display = 'block';
+	segundaTela.style.display = 'flex';
 }
 
 Botao.onclick = IniciarContagem;
@@ -60,5 +60,3 @@ var x = setInterval(function() {
 	}
 
 }, 1000);
-
-
