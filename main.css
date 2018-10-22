@@ -42,17 +42,7 @@ p {
 }
 
 @media only screen and (min-width: 1000px) {
-<<<<<<< HEAD
-=======
-	body {
-		background-color: #EA0000;
-	}
-	#body {
-		background-image: url(img/Preparadão.png);
-		background-size: 75% 50%;
-		background-position: top;
-	}
->>>>>>> c01bb6d0c9df6ffa33a585c8058195d00add245c
+	
 	#primeira-tela {
 		width: 40%;
 		height: 400px;
