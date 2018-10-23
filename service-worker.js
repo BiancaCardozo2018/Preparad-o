@@ -3,7 +3,8 @@ let filesToCache = [
 	'/',
 	'/index.html',
 	'/main.js',
-	'/main.css'
+	'/main.css',
+	'img/Preparadão.png'
 ];
 
 self.addEventListener('install', function(event) {
