@@ -8,16 +8,6 @@
 	align-items: center;	
 }
 
-#segunda-tela {
-	display: none;
-}
-
-#segunda-tela {
-	justify-content: flex-end;
-	align-items: center;
-	flex-direction: column;
-}
-
 #primeira-tela > button {
 	background-color: yellow;
 	border-color: yellow;
@@ -25,6 +15,13 @@
 	font-size: 40px;
 	padding: 10px;
 	border-radius: 5px;
+}
+
+#segunda-tela {
+	display: none;
+	justify-content: flex-end;
+	align-items: center;
+	flex-direction: column;
 }
 
 span {
