@@ -23,7 +23,7 @@ function IniciarContagem(){
 Botao.onclick = IniciarContagem;
 
 
-var countDownDate = new Date("Nov 11, 2018 12:00:00").getTime();
+var countDownDate = new Date("Nov 4, 2018 12:00:00").getTime();
 
 var x = setInterval(function() {
 
