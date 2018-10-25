@@ -4,6 +4,7 @@ let filesToCache = [
 	'/index.html',
 	'/main.js',
 	'/main.css',
+	'/main_2.css',
 	'img/Preparadão.png'
 ];
 
